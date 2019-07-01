@@ -1,7 +1,7 @@
 .. _header:
 
 *********
-flat_tree
+flat-tree
 *********
 
 .. image:: https://img.shields.io/badge/license-MIT-brightgreen.svg
@@ -44,7 +44,7 @@ From `The Dat Protocol`_:
 Documentation
 *************
 
-* https://flat_tree.readthedocs.io
+* https://flat-tree.readthedocs.io
 
 .. _mirroring:
 

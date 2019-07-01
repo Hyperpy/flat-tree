@@ -4,7 +4,7 @@ Install
 
 .. code-block:: bash
 
-    $ pip install flat_tree
+    $ pip install flat-tree
 
 .. note::
 

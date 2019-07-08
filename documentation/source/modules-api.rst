@@ -1,3 +1,5 @@
+.. _modules_api:
+
 ***********
 Modules API
 ***********

@@ -12,6 +12,10 @@ flat-tree
    :target: https://badge.fury.io/py/flat_tree
    :alt: PyPI Package
 
+.. image:: https://travis-ci.com/datpy/flat-tree.svg?branch=master
+   :target: https://travis-ci.com/datpy/flat-tree
+   :alt: Travis CI result
+
 .. image:: https://readthedocs.org/projects/flat-tree/badge/?version=latest
    :target: https://flat-tree.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status

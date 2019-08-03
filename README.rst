@@ -51,5 +51,5 @@ Documentation
 Mirroring
 *********
 
-* https://hack.decentral1.se/datpy/flat_tree (primary)
-* https://github.com/datpy/flat_tree
+* https://hack.decentral1.se/datpy/flat-tree (primary)
+* https://github.com/datpy/flat-tree

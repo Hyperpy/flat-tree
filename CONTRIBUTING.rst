@@ -1,20 +1,16 @@
 Get started
 -----------
 
-Install `Tox`_ with:
+Install `Tox`_.
 
 .. _tox: http://tox.readthedocs.io/
-
-.. code-block:: bash
-
-    $ pip install --user tox
 
 Run tests
 ---------
 
 .. code-block:: bash
 
-    tox -e test
+    tox -e py37
 
 Lint source
 -----------

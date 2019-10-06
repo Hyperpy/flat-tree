@@ -76,12 +76,17 @@ Example
 Documentation
 *************
 
-* https://flat-tree.readthedocs.io
+* `flat-tree.readthedocs.io`_
+
+.. _flat-tree.readthedocs.io: https://flat-tree.readthedocs.io
 
 .. _mirroring:
 
 Mirroring
 *********
 
-* https://hack.decentral1.se/datpy/flat-tree (primary)
-* https://github.com/datpy/flat-tree
+* `hack.decentral1.se/datpy/flat-tree`_
+* `github.com/datpy/flat-tree`_
+
+.. _hack.decentral1.se/datpy/flat-tree: https://hack.decentral1.se/datpy/flat-tree
+.. _github.com/datpy/flat-tree: https://github.com/datpy/flat-tree

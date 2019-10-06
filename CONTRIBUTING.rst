@@ -1,20 +1,16 @@
 Get started
 -----------
 
-Install `Tox`_ with:
+Install `Tox`_.
 
 .. _tox: http://tox.readthedocs.io/
-
-.. code-block:: bash
-
-    $ pip install --user tox
 
 Run tests
 ---------
 
 .. code-block:: bash
 
-    tox -e test
+    tox -e py37
 
 Lint source
 -----------
@@ -40,28 +36,6 @@ Type check source
 Release Process
 ---------------
 
-Add a change entry and re-generate the changelog:
-
 .. code-block:: bash
 
-    $ towncrier
-
-Make a new release tag:
-
-.. code-block:: bash
-
-    $ git tag x.x.x
-    $ git push --tags
-
-If you have a development install locally, you can verify:
-
-.. code-block:: bash
-
-    $ flat_tree --version
-
-Then run the release process:
-
-.. code-block:: bash
-
-    $ tox -e metadata-release
     $ tox -e release

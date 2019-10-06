@@ -43,17 +43,50 @@ From `The Dat Protocol`_:
     them uniquely efficient and convenient to implement in a wide range of
     languages.
 
+.. _example:
+
+Example
+*******
+
+.. code-block:: python
+
+    """
+
+    You can represent a binary tree in a simple
+    flat list using the following structure:
+
+           3
+       1       5
+     0   2   4   6  ...
+
+    This module exposes a series of functions
+    to help you build and maintain this data structure.
+
+    """
+
+    from flat_tree import FlatTreeAccessor
+
+    tree_access = FlatTreeAccessor()
+
+    # get array index for depth: 1, offset: 0
+    tree_access.index(1, 0)
+
 .. _documentation:
 
 Documentation
 *************
 
-* https://flat-tree.readthedocs.io
+* `flat-tree.readthedocs.io`_
+
+.. _flat-tree.readthedocs.io: https://flat-tree.readthedocs.io
 
 .. _mirroring:
 
 Mirroring
 *********
 
-* https://hack.decentral1.se/datpy/flat-tree (primary)
-* https://github.com/datpy/flat-tree
+* `hack.decentral1.se/datpy/flat-tree`_
+* `github.com/datpy/flat-tree`_
+
+.. _hack.decentral1.se/datpy/flat-tree: https://hack.decentral1.se/datpy/flat-tree
+.. _github.com/datpy/flat-tree: https://github.com/datpy/flat-tree

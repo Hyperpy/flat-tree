@@ -8,8 +8,8 @@ flat-tree
    :target: LICENSE
    :alt: Repository license
 
-.. image:: https://badge.fury.io/py/flat_tree.svg
-   :target: https://badge.fury.io/py/flat_tree
+.. image:: https://badge.fury.io/py/flat-tree.svg
+   :target: https://badge.fury.io/py/flat-tree
    :alt: PyPI Package
 
 .. image:: https://travis-ci.com/datpy/flat-tree.svg?branch=master

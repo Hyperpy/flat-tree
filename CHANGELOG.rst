@@ -1,6 +1,16 @@
 Flat_Tree 0.0.1a3 (2019-07-01)
 ==============================
 
+Improved Documentation
+--------
+
+- Use the sphinx_rtd_theme.
+- Attempt to clarify sections using better navigation.
+
+
+Flat_Tree 0.0.1a3 (2019-07-01)
+==============================
+
 Removals
 --------
 

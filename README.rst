@@ -43,9 +43,9 @@ From `The Dat Protocol`_:
     them uniquely efficient and convenient to implement in a wide range of
     languages.
 
-Part of the `DatPy`_ project.
+Part of the `Datpy`_ project.
 
-.. _DatPy: https://datpy.decentral1.se/
+.. _Datpy: https://datpy.decentral1.se/
 
 .. _documentation:
 

@@ -15,14 +15,10 @@ matrix:
       TOXENV: format
     - IMAGE: 3.8-buster
       TOXENV: type
-    - IMAGE: 3.8-buster
-      TOXENV: docs
-    - IMAGE: 3.8-buster
-      TOXENV: metadata-release
 
 pipeline:
   build:
     image: python:${IMAGE}
     commands:
-      - pip install tox==3.14.6
+      - pip install tox
       - tox -e ${TOXENV}

@@ -20,9 +20,8 @@ class FlatTreeIterator:
         self.seek(self.index)
 
     # TODO(decentral1se): Once we get to the point of actually using this
-    # module in hypercore or wherever it is needed we should consider whether
-    # or not to make this a real Python iterator using the protocol methods of
-    # __iter__ and __next__
+    # module in hypercore, we should consider whether or not to make this a
+    # real Python iterator using the protocol methods of __iter__ and __next__
     def next(self) -> int:
         """The next index in the tree."""
         self.offset += 1

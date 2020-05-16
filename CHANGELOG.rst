@@ -1,3 +1,18 @@
+Flat_Tree 0.0.1a6 (UNRELEASED)
+==============================
+
+Trivial/Internal Changes
+------------------------
+
+- Migrate to git.autonomic.zone
+- Migrate CI to drone.autonomic.zone
+
+Improved Documentation
+----------------------
+
+- Follow the Hypercore protocol renaming situation.
+
+
 Flat_Tree 0.0.1a5 (2019-11-03)
 ==============================
 

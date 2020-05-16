@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-The Datpy community is committed to providing an inclusive, safe, and
+The Hyperpy community is committed to providing an inclusive, safe, and
 collaborative environment for all participants, regardless of their gender,
 gender expression, race, ethnicity, religion, sexual orientation, sexual
 characteristics, physical appearance, disability, or age. We encourage every
@@ -9,18 +9,18 @@ participant to be themselves, and must respect the rights of others. The code
 of conduct is a set of guidelines that establishes shared values and ensures
 that behaviors that may harm participants are avoided.
 
-The values of the Datpy community are focused on developing both our individual
+The values of the Hyperpy community are focused on developing both our individual
 and collective potential, supporting and empowering the most marginalized,
 mutual respect, and an anti-violence approach that favors support and
 collaboration among participants and the resolution of conflicts. A code of
 conduct helps us co-exist in a more positive way and provides individuals who
 are victims of negative behaviors with confidence that they will be supported
-by the organization and the Datpy community, who respects and stands behind the
+by the organization and the Hyperpy community, who respects and stands behind the
 code of conduct.
 
-The Datpy community works towards providing a welcoming environment where
+The Hyperpy community works towards providing a welcoming environment where
 participants are treated with dignity and respect and are free to be
-themselves. We encourage all participants to approach the Datpy network
+themselves. We encourage all participants to approach the Hyperpy network
 with an open and positive attitude, engaging constructively with others at all
 times.
 
@@ -92,16 +92,16 @@ Enforcement
 Overseeing the code of conduct
 ==============================
 
-The Datpy community, composed of volunteers, oversees the code of conduct,
+The Hyperpy community, composed of volunteers, oversees the code of conduct,
 including addressing all incident reports. Breaking the code of conduct may
-result in immediate expulsion from the Datpy network.
+result in immediate expulsion from the Hyperpy network.
 
 How to Report an Incident
 =========================
 
 If you witness an incident or are the victim of one:
 
-1. You can reach out directly via email at ``lukewm [at] riseup.net``.
+1. You can reach out directly via email at ``hi@decentral1.se``.
 
 Acknowledgements
 ----------------

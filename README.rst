@@ -4,7 +4,7 @@
 flat-tree
 *********
 
-.. image:: https://img.shields.io/badge/license-MIT-brightgreen.svg
+.. image:: https://img.shields.io/badge/license-GPL-brightgreen.svg
    :target: LICENSE
    :alt: Repository license
 
@@ -12,9 +12,9 @@ flat-tree
    :target: https://badge.fury.io/py/flat-tree
    :alt: PyPI Package
 
-.. image:: https://travis-ci.com/datpy/flat-tree.svg?branch=master
-   :target: https://travis-ci.com/datpy/flat-tree
-   :alt: Travis CI result
+.. image:: https://drone.autonomic.zone/api/badges/hyperpy/flat-tree/status.svg
+   :target: https://drone.autonomic.zone/hyperpy/flat-tree
+   :alt: Drone CI result
 
 .. image:: https://readthedocs.org/projects/flat-tree/badge/?version=latest
    :target: https://flat-tree.readthedocs.io/en/latest/?badge=latest
@@ -29,23 +29,14 @@ flat-tree
 Utilities for navigating flat trees
 -----------------------------------
 
-From `The Dat Protocol`_: 
+Flat Trees are the core data structure that power Hypercore feeds. They allow
+us to deterministically represent a tree structure as a vector. This is
+particularly useful because vectors map elegantly to disk and memory.
 
-.. _The Dat Protocol: https://datprotocol.github.io/book/ch01-01-flat-tree.html
-
-    Flat Trees are the core data structure that power Dat's Hypercore feeds. They
-    allow us to deterministically represent a tree structure as a vector. This is
-    particularly useful because vectors map elegantly to disk and memory.
-
-    Because Flat Trees are deterministic and pre-computed, there is no overhead
-    to using them. In effect this means that Flat Trees are a specific way of
-    indexing into a vector more than they are their own data structure. This makes
-    them uniquely efficient and convenient to implement in a wide range of
-    languages.
-
-Part of the `Datpy`_ project.
-
-.. _Datpy: https://datpy.decentral1.se/
+Because Flat Trees are deterministic and pre-computed, there is no overhead to
+using them. In effect this means that Flat Trees are a specific way of indexing
+into a vector more than they are their own data structure. This makes them
+uniquely efficient and convenient to implement in a wide range of languages.
 
 .. _documentation:
 

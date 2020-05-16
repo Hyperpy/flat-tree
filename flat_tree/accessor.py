@@ -1,6 +1,6 @@
 """An accessor for navigating flat trees."""
 
-__all__ = ['FlatTreeAccessor']
+__all__ = ["FlatTreeAccessor"]
 
 from typing import List, Optional
 
@@ -155,7 +155,7 @@ class FlatTreeAccessor:
         :param index: The index of the root of the tree
         """
         if index & 1:
-            message = 'Roots only available for tree depth 0'
+            message = "Roots only available for tree depth 0"
             raise ValueError(message)
 
         roots: List[int] = []

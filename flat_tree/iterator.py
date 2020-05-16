@@ -1,6 +1,6 @@
 """Stateful iterator for flat trees."""
 
-__all__ = ['FlatTreeIterator']
+__all__ = ["FlatTreeIterator"]
 
 import attr
 

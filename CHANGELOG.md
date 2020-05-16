@@ -1,4 +1,4 @@
-# Flat_Tree 0.0.1a6 (UNRELEASED)
+# flat-tree 0.0.1a6 (UNRELEASED)
 
 ## Removals
 
@@ -11,27 +11,27 @@
 - Migrate CI to drone.autonomic.zone
 - Reduce package boilerplate
 
-# Flat_Tree 0.0.1a5 (2019-11-03)
+# flat-tree 0.0.1a5 (2019-11-03)
 
 ## Trivial/Internal Changes
 
 - Fixed documentation build errors.
 - Fixed changelog entry date and version.
 
-# Flat_Tree 0.0.1a4 (2019-11-03)
+# flat-tree 0.0.1a4 (2019-11-03)
 
 ## Improved Documentation
 
 - Use the sphinx_rtd_theme.
 - Attempt to clarify sections using better navigation.
 
-# Flat_Tree 0.0.1a3 (2019-07-01)
+# flat-tree 0.0.1a3 (2019-07-01)
 
 ## Removals
 
 - Don't advertise Python 3.5 which is not supported.
 
-# Flat_Tree 0.0.1a2 (2019-07-01)
+# flat-tree 0.0.1a2 (2019-07-01)
 
 ## Project Announcements
 

@@ -73,14 +73,4 @@ commands = black {posargs:--check} flat_tree/ test/
 skipdist = True
 deps = mypy
 commands = mypy {posargs:--ignore-missing-imports} flat_tree/ test/
-
-[testenv:release]
-deps = twine
-commands =
-    rm -rf {toxworkdir}/dist
-    python -m setup sdist --dist-dir {toxworkdir}/dist bdist_wheel
-    python -m setup sdist --dist-dir {toxworkdir}/dist bdist_egg
-    twine upload {toxworkdir}/dist/*
-whitelist_externals =
-    rm
 """

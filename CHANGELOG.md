@@ -5,10 +5,11 @@
 # flat-tree 0.0.1a8 (2020-07-07)
 
 - Use colours in the README for more happiness
-
-# flat-tree 0.0.1a7 (2020-07-07)
-
 - Made README clearer and added example
+
+# flat-tree 0.0.1a7 (UNRELEASED)
+
+- **Experimenting with publishing and missed this release number**
 
 # flat-tree 0.0.1a6 (2020-07-07)
 

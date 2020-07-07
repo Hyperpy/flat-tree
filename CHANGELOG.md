@@ -1,4 +1,10 @@
-# flat-tree 0.0.1a6 (UNRELEASED)
+# flat-tree 0.0.1a7 (UNRELEASED)
+
+# flat-tree 0.0.1a6 2020-07-07
+
+## Trivial/Internal Changes
+
+- Merge all tool configuration into the pyproject.toml
 
 ## Removals
 

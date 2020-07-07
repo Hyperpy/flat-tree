@@ -4,7 +4,7 @@ build-backend = "poetry.masonry.api"
 
 [tool.poetry]
 name = "flat-tree"
-version = "0.0.1a6"
+version = "0.0.1a7"
 description = "Utilities for navigating flat trees"
 authors = ["Decentral1se <hi@decentral1.se>"]
 maintainers = ["Decentral1se <hi@decentral1.se>"]

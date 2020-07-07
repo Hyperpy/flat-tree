@@ -1,6 +1,12 @@
-# flat-tree 0.0.1a7 (UNRELEASED)
+# flat-tree 0.0.1a8 (UNRELEASED)
 
-# flat-tree 0.0.1a6 2020-07-07
+# flat-tree 0.0.1a7 (2020-07-07)
+
+## Improved Documentation
+
+- Made README clearer and added example
+
+# flat-tree 0.0.1a6 (2020-07-07)
 
 ## Trivial/Internal Changes
 

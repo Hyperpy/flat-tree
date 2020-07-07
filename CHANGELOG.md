@@ -1,4 +1,10 @@
-# flat-tree 0.0.1a8 (UNRELEASED)
+# flat-tree 0.0.1a9 (UNRELEASED)
+
+# flat-tree 0.0.1a8 (2020-07-07)
+
+## Trivial/Internal Changes
+
+- Use colours in the README for more happiness
 
 # flat-tree 0.0.1a7 (2020-07-07)
 

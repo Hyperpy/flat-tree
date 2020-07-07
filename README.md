@@ -14,16 +14,17 @@
 
 ## Install
 
-```
+```sh
 $ pip install flat-tree
 ```
 
 ## Example
 
-```
->>> from flat_tree.accessor import FlatTreeIterator
->>> tree_iter = FlatTreeIterator()
->>> assert tree_iter.index == 0
->>> assert tree_iter.parent() == 1
->>> assert tree_iter.parent() == 3
+```python
+from flat_tree.accessor import FlatTreeIterator
+
+tree_iter = FlatTreeIterator()
+assert tree_iter.index == 0
+assert tree_iter.parent() == 1
+assert tree_iter.parent() == 3
 ```

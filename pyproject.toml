@@ -62,7 +62,7 @@ commands = flake8 {posargs:--max-line-length 80} flat_tree/ test/
 [testenv:sort]
 skipdist = True
 deps = isort
-commands = isort {posargs:-c} -sp setup.cfg flat_tree/ test/
+commands = isort {posargs:-c} flat_tree/ test/
 
 [testenv:format]
 skipdist = True

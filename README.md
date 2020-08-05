@@ -21,10 +21,19 @@ $ pip install flat-tree
 ## Example
 
 ```python
-from flat_tree.accessor import FlatTreeIterator
+from flat_tree import FlatTreeIterator
 
 tree_iter = FlatTreeIterator()
-assert tree_iter.index == 0
-assert tree_iter.parent() == 1
-assert tree_iter.parent() == 3
+
+print("tree index: ", tree_iter.index)
+print("tree first parent: ", tree_iter.parent())
+print("tree next parent", tree_iter.parent())
+```
+
+Output:
+
+```sh
+tree index:  0
+tree first parent:  1
+tree next parent 3
 ```
